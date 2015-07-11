@@ -1,1 +1,1 @@
-web: bus-serve -port $PORT
+web: bus-server -port $PORT
